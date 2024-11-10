@@ -1,0 +1,50 @@
+/* .dashboard-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.dashboard-header {
+  background-color: #1a202c;
+  padding: 1rem;
+}
+
+.dashboard-content {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  width: 20%;
+  background-color: #2d3748;
+}
+
+.export-btn {
+  background-color: #805ad5;
+}
+
+.main-content {
+  flex: 1;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.table-auto th,
+.table-auto td {
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.pagination button {
+  color: #805ad5;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.dashboard-footer {
+  background-color: #2d3748;
+  color: #a0aec0;
+  padding: 1rem;
+  text-align: center;
+} */
